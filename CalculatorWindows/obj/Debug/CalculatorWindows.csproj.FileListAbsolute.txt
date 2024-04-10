@@ -1,0 +1,16 @@
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\bin\Debug\CalculatorWindows.exe.config
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\bin\Debug\CalculatorWindows.exe
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\bin\Debug\CalculatorWindows.pdb
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.csproj.AssemblyReference.cache
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\MainWindow.g.cs
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\App.g.cs
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows_MarkupCompile.cache
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows_MarkupCompile.lref
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\MainWindow.baml
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.g.resources
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.Properties.Resources.resources
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.csproj.GenerateResource.cache
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.csproj.CoreCompileInputs.cache
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.exe
+C:\Users\danim\source\repos\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.pdb
